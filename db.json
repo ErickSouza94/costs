@@ -1,0 +1,110 @@
+{
+  "projects": [
+    {
+      "id": "c117",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "name": "projeto atualizado",
+      "budget": "1300",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "adc1",
+      "name": "Projeto de Planejamento",
+      "budget": "50000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 2000,
+      "services": [
+        {
+          "name": "Contratar Desenhista",
+          "cost": "2000",
+          "description": "Desenhar o projeto",
+          "id": "be9e35d2-81c9-4b31-bc30-88aaa1911564"
+        }
+      ]
+    },
+    {
+      "id": "0b2f",
+      "name": "Testando mais uma vez",
+      "budget": "10500",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 500,
+      "services": [
+        {
+          "name": "Serviço teste",
+          "cost": "500",
+          "description": "Apagar",
+          "id": "d44a4da4-b099-4f7a-addc-ab6c9ad883a4"
+        }
+      ]
+    },
+    {
+      "id": "4d2f",
+      "name": "Desenvolvimento de Software",
+      "budget": "8000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 2250,
+      "services": [
+        {
+          "name": "Contratar dev JS",
+          "cost": "1200",
+          "description": "Programar em JS",
+          "id": "3ef104a8-78e8-4a1d-a206-5425f0783615"
+        },
+        {
+          "name": "Contratar contador",
+          "cost": "1000",
+          "description": "Contar",
+          "id": "6c590c3c-9325-4fe9-a74a-98d5e8b1bb35"
+        },
+        {
+          "name": "Contratar dev estagiário",
+          "cost": "50",
+          "description": "Estagiar.",
+          "id": "5a38d279-4d79-4cd0-98c5-00ea614d4b20"
+        }
+      ]
+    },
+    {
+      "id": "986f",
+      "name": "Novo Projeto",
+      "budget": "200",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
