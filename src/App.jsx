@@ -25,7 +25,7 @@ function App() {
           <Route path="/project/:id" element={<Project />} />
         </Routes>
       </Container>
-
+Papai , bispo , não agora Você falou antes E eu conheço vai fazer Eu não sei , você não dançal Ela tá no segundo agora , fecha o telefone . Ah , não é mesmo 
       <Footer />
     </Router>
   );
